@@ -19,7 +19,7 @@
   "require": {},
   "autoload": {
       "classmap": [
-          "src/"
+          "unset_html_head_link.module"
       ]
   }
 }
