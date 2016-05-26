@@ -1,0 +1,20 @@
+{
+  "name": "drupal/unset_html_head_link",
+  "description": "Unset HTML head link (delete-form, edit-form, devel-render, etc...)",
+  "type": "drupal-module",
+  "homepage": "https://github.com/JulienCabanes/unset_html_head_link",
+  "authors": [
+    {
+      "name": "IACM",
+      "homepage": "https://github.com/enjoyiacm"
+    },
+    {
+      "name": "Julien Cabanes",
+      "homepage": "https://github.com/JulienCabanes"
+    }
+
+  ],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {}
+}
